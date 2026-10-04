@@ -4,5 +4,7 @@
   "randomize": "执行随机分组",
   "participants": "受试者",
   "audit": "安全审计",
-  "pending": "待提交队列"
+  "pending": "待提交队列",
+  "transfer": "受试者转中心",
+  "transfers": "迁移记录"
 }
